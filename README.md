@@ -6,6 +6,7 @@
 | ------- |
 | [0046-permutations](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0622-design-circular-queue](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0946-validate-stack-sequences](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0946-validate-stack-sequences](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 ## Design
 |  |
 | ------- |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
