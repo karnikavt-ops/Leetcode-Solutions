@@ -10,6 +10,7 @@
 | [0622-design-circular-queue](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0946-validate-stack-sequences](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Backtracking
 |  |
@@ -90,6 +91,7 @@
 | [0622-design-circular-queue](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0258-add-digits](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0946-validate-stack-sequences](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Dynamic Programming
 |  |
 | ------- |
