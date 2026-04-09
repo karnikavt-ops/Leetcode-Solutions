@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0796-rotate-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Stack
 |  |
 | ------- |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
