@@ -8,6 +8,7 @@
 | [0217-contains-duplicate](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0622-design-circular-queue](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0946-validate-stack-sequences](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Backtracking
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Recursion
 |  |
 | ------- |
@@ -77,8 +79,17 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Number Theory
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
