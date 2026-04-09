@@ -51,10 +51,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0946-validate-stack-sequences](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
