@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
