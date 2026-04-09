@@ -8,6 +8,7 @@
 | [0217-contains-duplicate](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0622-design-circular-queue](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0946-validate-stack-sequences](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Backtracking
 |  |
@@ -26,12 +27,14 @@
 | [0002-add-two-numbers](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +59,7 @@
 | ------- |
 | [0622-design-circular-queue](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Data Stream
 |  |
 | ------- |
@@ -65,6 +69,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0946-validate-stack-sequences](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
