@@ -32,6 +32,7 @@
 | [0328-odd-even-linked-list](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -80,6 +81,7 @@
 | [0155-min-stack](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
