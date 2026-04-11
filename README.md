@@ -68,6 +68,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0796-rotate-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Stack
 |  |
 | ------- |
