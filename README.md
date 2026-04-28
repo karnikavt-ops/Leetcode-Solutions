@@ -78,6 +78,7 @@
 | [0022-generate-parentheses](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Stack
@@ -143,11 +144,13 @@
 | [0141-linked-list-cycle](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## String Matching
