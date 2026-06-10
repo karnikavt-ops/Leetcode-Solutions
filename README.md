@@ -7,6 +7,7 @@
 | [0039-combination-sum](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
@@ -184,6 +185,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -244,6 +246,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
@@ -260,5 +263,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
