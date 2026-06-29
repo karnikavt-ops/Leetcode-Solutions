@@ -51,6 +51,7 @@
 | [0002-add-two-numbers](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0258-add-digits) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -269,4 +271,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
