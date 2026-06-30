@@ -8,6 +8,7 @@
 | [0046-permutations](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -55,6 +56,7 @@
 | [0062-unique-paths](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -75,6 +77,7 @@
 | [0125-valid-palindrome](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
