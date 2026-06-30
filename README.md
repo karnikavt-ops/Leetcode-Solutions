@@ -7,6 +7,7 @@
 | [0039-combination-sum](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -152,12 +153,14 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -262,6 +265,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -275,4 +279,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
