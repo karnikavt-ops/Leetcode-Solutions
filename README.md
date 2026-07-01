@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0039-combination-sum) |
@@ -159,6 +160,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
