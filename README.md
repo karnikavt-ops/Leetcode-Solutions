@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0946-validate-stack-sequences](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -154,6 +155,7 @@
 | [0062-unique-paths](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -302,4 +304,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
