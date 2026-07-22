@@ -27,6 +27,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0258-add-digits](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2965-find-missing-and-repeated-values](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [0217-contains-duplicate](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2965-find-missing-and-repeated-values](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -294,6 +297,7 @@
 | [0200-number-of-islands](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
 | ------- |
