@@ -1,22 +1,20 @@
 class Solution {
-    List<String> res = new ArrayList<>();
-    String[] phone ={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
-
-    public void combination(String digits, int i, StringBuilder cur){
-        if(cur.length()==digits.length()){
-            res.add(cur.toString());
+    String [] phones = {"", "","abc" ,"def" ,"ghi" ,"jkl" ,"mno" ,"pqrs" ,"tuv" ,"wxyz"};
+    public List<String> letterCombinations(String digits) {
+        List<String> res = new ArrayList<>();
+        bt(res, digits, 0, new StringBuffer());
+        return res;
+    }
+    public void bt(List<String>res, String digits, int i, StringBuffer s){
+        if(s.length()==digits.length()){
+            res.add(s.toString());
             return;
         }
-        String letters = phone[digits.charAt(i)-'0'];
-        for(char c: letters.toCharArray()){
-            cur.append(c);
-            combination(digits, i+1, cur);
-            cur.deleteCharAt(cur.length()-1);
+        String letters = phones[digits.charAt(i)-'0'];
+        for(char c : letters.toCharArray()){
+            s.append(c);
+            bt(res, digits, i+1, s);
+            s.deleteCharAt(s.length()-1);
         }
-    }
-
-    public List<String> letterCombinations(String digits) {
-        combination(digits,0,new StringBuilder());
-        return res;  
     }
 }
