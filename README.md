@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -202,6 +203,7 @@
 | [0032-longest-valid-parentheses](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
