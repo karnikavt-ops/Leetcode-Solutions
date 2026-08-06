@@ -21,6 +21,7 @@
 | [0189-rotate-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -382,6 +383,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
