@@ -94,6 +94,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2469-convert-the-temperature](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2965-find-missing-and-repeated-values](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
