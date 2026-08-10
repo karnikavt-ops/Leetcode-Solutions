@@ -34,6 +34,7 @@
 | [0946-validate-stack-sequences](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -243,6 +244,7 @@
 | [0268-missing-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -253,6 +255,7 @@
 | [0242-valid-anagram](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## String Matching
 |  |
@@ -429,4 +432,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1952-three-divisors) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
