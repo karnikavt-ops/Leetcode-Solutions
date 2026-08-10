@@ -91,6 +91,7 @@
 | [0326-power-of-three](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -221,11 +222,13 @@
 | [0300-longest-increasing-subsequence](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1137-n-th-tribonacci-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
