@@ -95,6 +95,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1952-three-divisors](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2469-convert-the-temperature](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -264,6 +265,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1952-three-divisors) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Depth-First Search
 |  |
@@ -412,4 +414,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
