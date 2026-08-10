@@ -37,6 +37,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -374,6 +375,7 @@
 | [0074-search-a-2d-matrix](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1672-richest-customer-wealth](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
