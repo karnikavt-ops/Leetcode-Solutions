@@ -16,14 +16,6 @@ class Solution {
                count--; 
             }
         }
-        count = 0;
-        for(int i: nums){
-            if(i==candidate)
-                count++;
-        }
-        if(count > (n/2))
-            return candidate;
-        else
-            return -1;
+        return candidate;
     }
 }
