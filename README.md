@@ -164,6 +164,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0709-to-lower-case](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
