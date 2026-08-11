@@ -162,6 +162,7 @@
 | [0242-valid-anagram](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0709-to-lower-case) |
@@ -253,6 +254,7 @@
 | [0217-contains-duplicate](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -404,6 +406,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Indexed Tree
 |  |
