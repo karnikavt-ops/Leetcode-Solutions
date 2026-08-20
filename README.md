@@ -45,6 +45,7 @@
 | [1672-richest-customer-wealth](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1773-count-items-matching-a-rule](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -170,6 +171,7 @@
 | [0709-to-lower-case](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [1773-count-items-matching-a-rule](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Stack
 |  |
