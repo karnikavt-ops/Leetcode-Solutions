@@ -42,6 +42,7 @@
 | [1470-shuffle-the-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1656-design-an-ordered-stream](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1672-richest-customer-wealth](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -199,6 +200,7 @@
 | [0622-design-circular-queue](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1656-design-an-ordered-stream](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
 ## Queue
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1656-design-an-ordered-stream](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
 ## Simulation
 |  |
 | ------- |
@@ -263,6 +266,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1656-design-an-ordered-stream](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [2965-find-missing-and-repeated-values](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
