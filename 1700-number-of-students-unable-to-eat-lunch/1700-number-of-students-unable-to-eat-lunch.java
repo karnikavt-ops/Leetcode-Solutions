@@ -4,21 +4,19 @@ class Solution {
         for(int s : students){
             q.offer(s);
         }
-        int i = 0;
-        int count = 0;
-        while(!q.isEmpty() && count<q.size()){
-            if(q.peek() == sandwiches[i]){
-                i++;
+        int i=0; 
+        int UE = 0;
+        while(!q.isEmpty() && UE<q.size()){
+            if(q.peek()==sandwiches[i]){
                 q.poll();
-                count = 0;
+                i++;
+                UE=0;
             }
             else{
                 q.offer(q.poll());
-                count++;
+                UE++;
             }
         }
-        return q.size();
+        return UE;
     }
 }
-
-
