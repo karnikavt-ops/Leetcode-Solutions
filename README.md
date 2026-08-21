@@ -41,6 +41,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1656-design-an-ordered-stream](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
@@ -192,6 +193,7 @@
 | [0234-palindrome-linked-list](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
@@ -467,4 +469,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
