@@ -45,6 +45,7 @@
 | [1470-shuffle-the-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1656-design-an-ordered-stream](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1672-richest-customer-wealth](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -110,6 +111,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1952-three-divisors](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1952-three-divisors) |
@@ -280,6 +282,7 @@
 | [0771-jewels-and-stones](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1656-design-an-ordered-stream](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [2965-find-missing-and-repeated-values](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -433,6 +436,7 @@
 | [0169-majority-element](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
