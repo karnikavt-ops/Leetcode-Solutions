@@ -1,26 +1,20 @@
-import java.util.*;
-
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
-        Set<Integer> set = new HashSet<>();
-        // Store nums1 elements
-        for (int num : nums1) {
-            set.add(num);
+        List<Integer> l1 = new ArrayList<>();
+        for(int n: nums1){
+            l1.add(n);
         }
-        Set<Integer> result = new HashSet<>();
-        // Find common elements
-        for (int num : nums2) {
-            if (set.contains(num)) {
-                result.add(num);
-            }
+        HashSet<Integer> set = new HashSet<>();
+        for(int n : nums2){
+            if(l1.contains(n))
+                set.add(n);
         }
-        // Convert Set to array
-        int[] answer = new int[result.size()];
-        int i = 0;
-        for (int num : result) {
-            answer[i] = num;
+        int arr[] = new int [set.size()];
+        int i =0;
+        for(int v : set){
+            arr[i] = v;
             i++;
         }
-        return answer;
+        return arr;
     }
 }
