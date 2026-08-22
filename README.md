@@ -33,6 +33,7 @@
 | [0622-design-circular-queue](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0896-monotonic-array) |
@@ -85,6 +86,7 @@
 | [0328-odd-even-linked-list](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -204,6 +206,7 @@
 | [0225-implement-stack-using-queues](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [1656-design-an-ordered-stream](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
@@ -272,6 +275,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0705-design-hashset](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1656-design-an-ordered-stream](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
@@ -478,4 +482,8 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
