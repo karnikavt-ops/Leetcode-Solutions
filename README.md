@@ -176,6 +176,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -276,6 +277,7 @@
 | [0383-ransom-note](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [0771-jewels-and-stones](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1656-design-an-ordered-stream](https://github.com/karnikavt-ops/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
